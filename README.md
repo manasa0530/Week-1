@@ -3,4 +3,5 @@ The project focuses on developing a Convolutional Neural Network (CNN) model to 
 Here dataset contains images of various objects.It is designed to support the development of a Convolutional Neural Network (CNN) model for classifying and distinguishing between the categories.
 TRAIN: Contains training images organized into subfolders for each class.
 TEST: Contains testing images organized similarly.
+<br>
 You can download the dataset from the following link: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
